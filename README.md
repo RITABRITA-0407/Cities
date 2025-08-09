@@ -53,7 +53,7 @@ This project analyzes Indian city-level data on **population, literacy, and gend
 ![KDE Plot](KDEPLOT.png)  
 
 ### 🔥 Male vs Female Population Heatmap  
-![Heatmap](assets/heatmap.png)  
+![Heatmap](Heatmap.png)  
 
 ---
 
