@@ -44,7 +44,7 @@ This project analyzes Indian city-level data on **population, literacy, and gend
 ## 📸 Visual Samples  
 
 ### 📦 Total Literates by State  
-![Bar Chart](Screenshot 2025-08-09 112246.png)  
+![Bar Chart](Screenshot2025-08-09112246.png)  
 
 ### 🎯 Graduates vs Literacy Rate  
 ![Scatter Plot](assets/scatter_plot.png)  
