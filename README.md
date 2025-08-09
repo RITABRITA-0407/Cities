@@ -70,4 +70,7 @@ This project analyzes Indian city-level data on **population, literacy, and gend
 
 ---
 
-
+✨ Author
+👩‍💻 Ritabrita Karmakar
+🎓 CSE UnderGraduate | 📊 Data Enthusiast
+💡 Passionate about Data Analysis, Machine Learning & Visualization
