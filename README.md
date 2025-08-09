@@ -1,4 +1,4 @@
-![Project Banner](cities/banner.png)  
+![Project Banner](main/banner.png)  
 
 
 # 📊 Cities Population Data Analysis & Visualization  
