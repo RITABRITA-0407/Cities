@@ -47,7 +47,7 @@ This project analyzes Indian city-level data on **population, literacy, and gend
 ![Bar Chart](barchart.png)  
 
 ### 🎯 Graduates vs Literacy Rate  
-![Scatter Plot](assets/scatter_plot.png)  
+![Scatter Plot](Scatterplot.png)  
 
 ### 🌈 Literacy Distribution by State (KDE Plot)  
 ![KDE Plot](assets/kde_plot.png)  
