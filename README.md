@@ -50,7 +50,7 @@ This project analyzes Indian city-level data on **population, literacy, and gend
 ![Scatter Plot](Scatterplot.png)  
 
 ### 🌈 Literacy Distribution by State (KDE Plot)  
-![KDE Plot](assets/kde_plot.png)  
+![KDE Plot](KDEPLOT.png)  
 
 ### 🔥 Male vs Female Population Heatmap  
 ![Heatmap](assets/heatmap.png)  
